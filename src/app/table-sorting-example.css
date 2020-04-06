@@ -5,3 +5,8 @@ table {
 th.mat-sort-header-sorted {
   color: black;
 }
+.action-button-wrapper{
+  display:flex;
+  align-items:center;
+  justify-content:flex-end;
+}
